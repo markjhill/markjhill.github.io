@@ -1,5 +1,6 @@
 # markjhill.github.io
-This is (github) homepage.
+
+A personal page for Mark J. Hill.
 
 ## View my 
 
@@ -9,7 +10,7 @@ This is (github) homepage.
 * Bluesky: [mrak.bsky.social](https://bsky.app/profile/mrak.bsky.social)
 * Github: [markjhill](https://github.com/markjhill)
 
-Recent work:
+## Recent work/outputs:
 
 * "Catching Stray Balls: Football, fandom, and the impact on digital discourse." DOI: [10.48550/arXiv.2506.01642](https://doi.org/10.48550/arXiv.2506.01642)
-* For older outputs see my CV or ORCID page.
+* For older outputs see my CV, ORCID, or Google Scholar page.
