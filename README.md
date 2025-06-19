@@ -7,6 +7,7 @@ This is (github) homepage.
 * [Faculty profile](https://www.kcl.ac.uk/people/mark-j.-hill)
 * ORCID: [0000-0001-7273-1775](https://orcid.org/0000-0001-7273-1775)
 * Bluesky: [mrak.bsky.social](https://bsky.app/profile/mrak.bsky.social)
+* Github: [markjhill](https://github.com/markjhill)
 
 Recent work:
 
