@@ -1,4 +1,4 @@
-<img src="mark.png" align="right" width="150">
+<img src="mark.png" align="right" width="150" title="Photo credit: Will Melling">
 
 # markjhill.github.io
 
