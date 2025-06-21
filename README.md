@@ -1,3 +1,5 @@
+<img src="mark.png" align="right" width="150">
+
 # markjhill.github.io
 
 A personal page for Mark J. Hill.
