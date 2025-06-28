@@ -16,7 +16,7 @@ A personal page for Mark J. Hill.
 
 ### 2025 
 
-* 
+* "Case studies using HPC in Digital Humanities Research" (talk) at [Digital Humanities & Research Software Engineering Summer School 2025](https://dhrse2025.er.kcl.ac.uk/). 2 July 2025.
 * "Catching Stray Balls: Football, fandom, and the impact on digital discourse." DOI: [10.48550/arXiv.2506.01642](https://doi.org/10.48550/arXiv.2506.01642)
 * "Book Formats, Printing Practices and Reading Habits in Early Modern Europe" in *Library Catalogues as Data: Research, Practice and Usage*. URL: [https://www.facetpublishing.co.uk/page/detail/library-catalogues-as-data/?k=9781783306589](https://www.facetpublishing.co.uk/page/detail/library-catalogues-as-data/?k=9781783306589)
 
