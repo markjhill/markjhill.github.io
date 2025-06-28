@@ -12,7 +12,14 @@ A personal page for Mark J. Hill.
 * Bluesky: [mrak.bsky.social](https://bsky.app/profile/mrak.bsky.social)
 * Github: [markjhill](https://github.com/markjhill)
 
-## Recent work/outputs:
+## Recent work/outputs/events:
 
+### 2025 
+
+* 
 * "Catching Stray Balls: Football, fandom, and the impact on digital discourse." DOI: [10.48550/arXiv.2506.01642](https://doi.org/10.48550/arXiv.2506.01642)
+* "Book Formats, Printing Practices and Reading Habits in Early Modern Europe" in *Library Catalogues as Data: Research, Practice and Usage*. URL: [https://www.facetpublishing.co.uk/page/detail/library-catalogues-as-data/?k=9781783306589](https://www.facetpublishing.co.uk/page/detail/library-catalogues-as-data/?k=9781783306589)
+
+### Older
+
 * For older outputs see my CV, ORCID, or Google Scholar page.
