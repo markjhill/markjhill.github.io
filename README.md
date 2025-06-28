@@ -2,7 +2,9 @@
 
 # markjhill.github.io
 
-A personal page for Mark J. Hill.
+Mark J. Hill is Lecturer in Cultural Computation in the Department of Digital Humanities at King’s College London. His interdisciplinary research encompasses digital humanities, computational social science, intellectual history, and cultural analytics. He was formerly Lecturer in Computational Social Science at the University of Kent, as well as having held academic positions at the University of Helsinki and the London School of Economics. He has a DPhil from Brasenose College at the University of Oxford, an MSc from the London School of Economics, and BA from Concordia University, Montreal, Canada.
+
+His research sits at the intersection of digital methodologies and traditional scholarly inquiry. Interests include social network analysis, public discourse analysis through large-scale datasets, quantitative text analysis, and critical examinations of digital research methodologies. His work maintains a dual focus on the advancement of substantive research topics and the development of digital methods. Current research involves the examination of patterns in discourse and idea transmission across historical and contemporary contexts focusing on the role of language within social networks and cultural systems. 
 
 ## View my 
 
