@@ -166,6 +166,8 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Selected Conferences and Workshops (Contributing author)
 
+* **International Association for Media and Communication Research 2025**, Singapore, 2025
+    * “Ultras, trolls and normies: football events, digital fandom, and public discourse” at . 17 July 2025. (with Rafal Zaborowski)
 * **Neural Information Processing Systems**, Vancouver, 2024
     * “Developing an occupational prestige scale using Large Language Models” part of the Socially Responsible Language Modelling Research (SoLaR) workshop (with Robert de Vries and Laura Ruis)
 * **International Society for the Study of Drug Policy**, Lisbon, 2024
