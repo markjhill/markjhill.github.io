@@ -9,6 +9,7 @@ His research sits at the intersection of digital methodologies and traditional s
 * [CV](CV.md)
 * [Faculty profile](https://www.kcl.ac.uk/people/mark-j.-hill)
 * ORCID: [0000-0001-7273-1775](https://orcid.org/0000-0001-7273-1775)
+* Google Scholar: [Mark J. Hill](https://scholar.google.com/citations?user=y4Vjeb0AAAAJ&hl=en)
 * Bluesky: [mrak.bsky.social](https://bsky.app/profile/mrak.bsky.social)
 * Github: [markjhill](https://github.com/markjhill)
 
