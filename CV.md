@@ -71,8 +71,6 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ### Forthcoming
 
-* Mikko Tolonen, Jani Marjanen, Mark J. Hill, Leo Lahti. “Book Formats and Reading Habits in Early Modern Europe” in *Library Catalogues as Data: Research, Practice, and Usage* (Facet Publishing, 2025).
-
 ### In Print (First or solo author)
 
   * Mark J. Hill, Ville Vaara, Mikko Tolonen. “Communication and idea transmission across historical communities: A quantitative analysis of Early Modern Nonconformist networks” in *Huntington Library Quarterly* (2024). DOI: [10.1353/hlq.2023.a936422](https://doi.org/10.1353/hlq.2023.a936422)
@@ -88,6 +86,7 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ### In Print (Contributing author)
 
+* Mikko Tolonen, Jani Marjanen, Mark J. Hill, Leo Lahti. “Book Formats and Reading Habits in Early Modern Europe” in *Library Catalogues as Data: Research, Practice, and Usage* (Facet Publishing, 2025).
 * M. Niksic, L. Forbes, D. Whiting, K. Day, M.J. Hill, S Hotham. “Understanding complex research-related relationships in public health: a social network analysis (SNA) in Medway.” *J Epidemiol Community Health* 78:A54 (2024). DOI: [doi.org/10.1136/jech-2024-SSMabstracts.112](https://doi.org/10.1136/jech-2024-SSMabstracts.112)
 * Jenefer Golding, Mark J. Hill, Irene Custodio, Grace Grima. “Gender, self-perception, and mathematics: the 2020 England, Wales and Northern Ireland PISA Field Trial,” in *Proceedings of the British Society for Research into Learning Mathematics* 41.3 (2022).
 * Mikko Tolonen, Mark J. Hill, A. Z. Ijaz, Ville Vaara, Leo Lahti. “Examining the Early Modern Canon: The English Short Title Catalogue and Large-Scale Patterns of Cultural Production,” in *Data Visualization in Enlightenment Literature and Culture* (Palgrave Millican, 2021). DOI: [10.1007/978-3-030-54913-8_3](https://doi.org/10.1007/978-3-030-54913-8_3)
