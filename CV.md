@@ -94,8 +94,10 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Invited Talks, Seminars, and Workshops
 
+* **Helsinki Summer School of Conceptual History**, Helsinki, 2025
+    * Invited to present and be part of panel of international researchers on Semantic Drift and Intellectual History
 * **Computational Analysis of Semantic Change Across Different Environments**, Helsinki, 2025
-    * Invited to present research and lead workshop for PhD students on Maria Skłodowska-Curie and UKRI funded international training project
+    * Invited to lead workshop for PhD students on Maria Skłodowska-Curie and UKRI funded international training project on semantic change
 * **Digital Humanities & Research Software Engineering Summer**, London, 2025
     * Presented case studies on the use of High Performance Computing (HPC) in Digital Humanities research
 * **Durham Sociology, Health, and Technology Research Seminar**, Durham, 2024
