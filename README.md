@@ -15,11 +15,15 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ## Recent work/outputs/events:
 
+### 2026
+
+* MEDIA: ["'London is not what it was': How social media accounts are changing the narrative of the capital"](https://www.standard.co.uk/news/london/social-media-london-crime-b1260797.html) by Claudia Lee in *The Standard*. Includes quotes and results from some of my research.
+
 ### 2025 
 
 * TALK: "Identifying and tracking ideas across historical communities" at Helsinki Summer School of Conceptual History. 21 August 2025.
 * WORKSHOP: "Words & Concepts in Historical Research" at [Computational Analysis of Semantic Change Across Different Environment (CASCADE)](https://www.horizoncascade.net/) training wokrshop. 20 August 2025.
-* PUB and TALK: "Catching Stray Balls: Football, fandom, and the impact on digital discourse." at [Association for Computational Linguistics 2025, 9th Workshop on Online Abuse and Harms (WOAH)](https://aclanthology.org/2025.woah-1.17/). 1 August 2025. Winner of Best Theme Paper.
+* PUB and TALK: "Catching Stray Balls: Football, fandom, and the impact on digital discourse" at [Association for Computational Linguistics 2025, 9th Workshop on Online Abuse and Harms (WOAH)](https://aclanthology.org/2025.woah-1.17/). 1 August 2025. Winner of Best Theme Paper.
 * TALK: "Ultras, trolls and normies: football events, digital fandom, and public discourse" at [International Association for Media and Communication Research 2025](https://iamcr.org/singapore2025). 17 July 2025. (Presented by colleague and co-investigator [Rafal Zaborowski](https://www.kcl.ac.uk/people/rafal-zaborowski)).
 * TALK: "Case studies using HPC in Digital Humanities Research" at [Digital Humanities & Research Software Engineering Summer School 2025](https://dhrse2025.er.kcl.ac.uk/). 2 July 2025.
 * PREPRINT: "Catching Stray Balls: Football, fandom, and the impact on digital discourse." DOI: [10.48550/arXiv.2506.01642](https://doi.org/10.48550/arXiv.2506.01642)
