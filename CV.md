@@ -126,6 +126,8 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Selected Conferences and Workshops (First or solo-author)
 
+* **European Association for Computational Linguistics (EACL) SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature**, Rabat, 2026
+    * "Catalogues as Data: Interpretable NLP Pipelines for Ottoman-Turkish Bibliographies" (poster with Ayse Bulus and Paul Spence)
 * **Association for Computational Linguistics (ACL) Workshop on Online Abuse and Harms**, Vienna, 2025
     * “Catching Stray Balls: Football, fandom, and the impact on digital discourse”
 * **PreTrain**, London, 2025
