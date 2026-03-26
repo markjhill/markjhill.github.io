@@ -28,7 +28,15 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Current Employment
 
-### Lecturer in Cultural Computation, King’s College London
+### Lecturer, King’s College London, London, 2024-present
+
+* Lecturer in Cultural Computation in the Department of Digital Humanities.
+* Teaching responsibilities include undergraduate and graduate level courses on digital humanities methods, python, R, cultural analytics.
+* Supervise UG, PGT, and PhD students
+* Admin roles held include:
+   * MA in Digital Humanities Lead
+   * MA in Big Data, Culture, and Society Lead
+   * Departmental Liaison for Careers and Employability
 
 ## Previous Employment
 
