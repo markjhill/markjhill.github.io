@@ -73,7 +73,9 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ### In Print (First or solo author)
 
-  * Mark J. Hill, Ville Vaara, Mikko Tolonen. “Communication and idea transmission across historical communities: A quantitative analysis of Early Modern Nonconformist networks” in *Huntington Library Quarterly* (2024). DOI: [10.1353/hlq.2023.a936422](https://doi.org/10.1353/hlq.2023.a936422)
+* Mark J. Hill, Ayse Bulus, and Paul Spence. "Catalogues as Data: Interpretable NLP Pipelines for Ottoman-Turkish Bibliographies" in *Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026* (2026). DOI: [https://doi.org/10.18653/v1/2026.latechclfl-1.12](https://doi.org/10.18653/v1/2026.latechclfl-1.12)
+* Mark J. Hill. "Catching Stray Balls: Football, fandom, and the impact on digital discourse" in *Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)* (2025). URL: [https://aclanthology.org/2025.woah-1.17/](https://aclanthology.org/2025.woah-1.17/).
+* Mark J. Hill, Ville Vaara, Mikko Tolonen. “Communication and idea transmission across historical communities: A quantitative analysis of Early Modern Nonconformist networks” in *Huntington Library Quarterly* (2024). DOI: [10.1353/hlq.2023.a936422](https://doi.org/10.1353/hlq.2023.a936422)
 * Mark J. Hill. “Rousseau and Poland: A pragmatic rejuvenation rather than ideal reforms,” in *Constitutional Moments: Founding Myths, Charters and Constitutions through History* (Brill, 2024). DOI: [10.1163/9789004549159_014](https://doi.org/10.1163/9789004549159_014)
 * Mark J. Hill, Mikko Tolonen. “A Computational Investigation into the Authorship of *Sister Peg*,” in *Eighteenth-Century Studies* 54.4 (2021). DOI: [10.1353/ecs.2021.0095](https://doi.org/10.1353/ecs.2021.0095)
 * Mark J. Hill. “看不見的詮釋：對數位人文學和思想史的反思,” in *New Directions in Intellectual History* (Taipei: Linking Publishing Company, 2020) (Translation of “Invisible Interpretations: Reflections on the Digital Humanities and Intellectual History”).
