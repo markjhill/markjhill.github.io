@@ -17,7 +17,7 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
-* TALK: "Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities" at the Computational Science of Culture Workshop (Paris). 18-19 May 2026.
+* TALK: "Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities" at the Computational Science of Culture Workshop (Paris). 18-19 May 2026.
 * PUB: ["Catalogues as Data: Interpretable NLP Pipelines for Ottoman-Turkish Bibliographies"](https://aclanthology.org/2026.latechclfl-1.12/). *Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026*
 * MEDIA: ["What's really going on with crime in the capital?"](https://podcasts.apple.com/us/podcast/whats-really-going-on-with-crime-in-the-capital-with/id1514377550?i=1000749580526) podcast with by *Business LDN*.
 * MEDIA: ["'London is not what it was': How social media accounts are changing the narrative of the capital"](https://www.standard.co.uk/news/london/social-media-london-crime-b1260797.html) by Claudia Lee in *The Standard*. Includes quotes and results from some of my research.
