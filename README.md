@@ -17,6 +17,8 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
+* PANEL: "Critical Approaches to Text-Based Digital and Computational Humanities" at The Digital Conference 2026, King's College London. 26 June 2026.
+* ROUNDTABLE: "Strengthening the Policy Pipeline: Tackling Online Abuse in Sport" at the Fédération Internationale de l'Automobile Paris and organised by United Against Online Abuse. 2 June 2026.
 * TALK: "Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities" at the Computational Science of Culture Workshop (Paris). 18-19 May 2026.
 * PUB: ["Catalogues as Data: Interpretable NLP Pipelines for Ottoman-Turkish Bibliographies"](https://aclanthology.org/2026.latechclfl-1.12/). *Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026*
 * MEDIA: ["What's really going on with crime in the capital?"](https://podcasts.apple.com/us/podcast/whats-really-going-on-with-crime-in-the-capital-with/id1514377550?i=1000749580526) podcast with by *Business LDN*.
