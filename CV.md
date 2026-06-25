@@ -103,6 +103,10 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Invited Talks, Seminars, and Workshops
 
+* **Critical Approaches to Text-Based Digital and Computational Humanities**, London, 2026
+    * Invited to participate in panel discussion to critically examine the applications, challenges, and ethical dimensions of NLP methods. Part of The Digital Conference 2026.
+* **Strengthening the Policy Pipeline: Tackling Online Abuse in Sport**, Paris, 2026
+    * Invited to participate in roundtable organised by the Fédération Internationale de l'Automobile and United Against Online Abuse
 * **Helsinki Summer School of Conceptual History**, Helsinki, 2025
     * Invited to present and be part of panel of international researchers on Semantic Drift and Intellectual History
 * **Computational Analysis of Semantic Change Across Different Environments**, Helsinki, 2025
