@@ -17,6 +17,7 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
+* PUB: * ["Two kinds of mirror? Recrafting mediated selves in apps for mental wellbeing"](https://doi.org/10.1016/j.ssmqr.2026.100818) in *SSM - Qualitative Research in Health* 28 Jun 2026.
 * PANEL: "Critical Approaches to Text-Based Digital and Computational Humanities" at [The Digital Conference 2026](https://www.kcldigitalconference.com/), King's College London. 26 June 2026.
 * ROUNDTABLE: "Strengthening the Policy Pipeline: Tackling Online Abuse in Sport" at the Fédération Internationale de l'Automobile Paris and organised by United Against Online Abuse. 2 June 2026.
 * TALK: "Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities" at the Computational Science of Culture Workshop (Paris). 18-19 May 2026.
