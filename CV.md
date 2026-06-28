@@ -96,6 +96,7 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ### In Print (Contributing author)
 
+* T. Moreira, V. Miller, M.J. Hill. "Two kinds of mirror? Recrafting mediated selves in apps for mental wellbeing" in *SSM - Qualitative Research in Health* 28 Jun 2026. DOI: [https://doi.org/10.1016/j.ssmqr.2026.100818](https://doi.org/10.1016/j.ssmqr.2026.100818)
 * Mikko Tolonen, Jani Marjanen, Mark J. Hill, Leo Lahti. “Book Formats and Reading Habits in Early Modern Europe” in *Library Catalogues as Data: Research, Practice, and Usage* (Facet Publishing, 2025).
 * M. Niksic, L. Forbes, D. Whiting, K. Day, M.J. Hill, S Hotham. “Understanding complex research-related relationships in public health: a social network analysis (SNA) in Medway.” *J Epidemiol Community Health* 78:A54 (2024). DOI: [doi.org/10.1136/jech-2024-SSMabstracts.112](https://doi.org/10.1136/jech-2024-SSMabstracts.112)
 * Jenefer Golding, Mark J. Hill, Irene Custodio, Grace Grima. “Gender, self-perception, and mathematics: the 2020 England, Wales and Northern Ireland PISA Field Trial,” in *Proceedings of the British Society for Research into Learning Mathematics* 41.3 (2022).
