@@ -17,6 +17,7 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
+* PUB: Miller, V., Hill, M. J., Moreira, T. "Artificial intelligence and unconditional love: the rise of generative AI as an alternative form of mental health support." *Commun. Change* 2, 14 (2026). [https://doi.org/10.1007/s44382-026-00036-1](https://doi.org/10.1007/s44382-026-00036-1)
 * PUB: ["Two kinds of mirror? Recrafting mediated selves in apps for mental wellbeing"](https://doi.org/10.1016/j.ssmqr.2026.100818) in *SSM - Qualitative Research in Health* 28 Jun 2026.
 * PANEL: "Critical Approaches to Text-Based Digital and Computational Humanities" at [The Digital Conference 2026](https://www.kcldigitalconference.com/), King's College London. 26 June 2026.
 * ROUNDTABLE: "Strengthening the Policy Pipeline: Tackling Online Abuse in Sport" at the Fédération Internationale de l'Automobile Paris and organised by United Against Online Abuse. 2 June 2026.
