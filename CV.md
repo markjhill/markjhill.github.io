@@ -105,10 +105,12 @@ Digital humanities; history; computational social science; interdisciplinary res
 * Jenefer Golding, Mark J. Hill, Irene Custodio, Grace Grima. “Gender, self-perception, and mathematics: the 2020 England, Wales and Northern Ireland PISA Field Trial,” in *Proceedings of the British Society for Research into Learning Mathematics* 41.3 (2022).
 * Mikko Tolonen, Mark J. Hill, A. Z. Ijaz, Ville Vaara, Leo Lahti. “Examining the Early Modern Canon: The English Short Title Catalogue and Large-Scale Patterns of Cultural Production,” in *Data Visualization in Enlightenment Literature and Culture* (Palgrave Millican, 2021). DOI: [10.1007/978-3-030-54913-8_3](https://doi.org/10.1007/978-3-030-54913-8_3)
 
-## Invited Talks, Seminars, and Workshops
+## Keynotes, Invited Talks, Seminars, and Workshops
 
+* **Familiar Texts, Unfamiliar Contexts: Canonicity and context in computational cultural analysis**, Helsinki, 2026
+  * Keynote at The Models of Canonicity, part of MECANO (The Mechanics of Canon Formation and the Transmission of Knowledge)
 * **Critical Approaches to Text-Based Digital and Computational Humanities**, London, 2026
-    * Invited to participate in panel discussion to critically examine the applications, challenges, and ethical dimensions of NLP methods. Part of The Digital Conference 2026.
+    * Invited to participate in panel discussion to critically examine the applications, challenges, and ethical dimensions of NLP methods. Part of The Digital Conference 2026
 * **Strengthening the Policy Pipeline: Tackling Online Abuse in Sport**, Paris, 2026
     * Invited to participate in roundtable organised by the Fédération Internationale de l'Automobile and United Against Online Abuse
 * **Helsinki Summer School of Conceptual History**, Helsinki, 2025
