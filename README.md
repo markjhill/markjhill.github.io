@@ -17,6 +17,7 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
+* KEYNOTE: "Familiar Texts, Unfamiliar Contexts: Canonicity and context in computational cultural analysis" at [The Models of Canonicity](https://mecano-dn.eu/) (Helsinki). 30 Oct 2026.
 * PUB: ["Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities"](https://doi.org/10.1016/j.rssm.2026.101185) in *Anthology of Computers and the Humanities* Volume 6, 2026. 
 * PUB: ["Exploring Occupational Prestige through Large Language Models: A Multi-dimensional Approach"](https://doi.org/10.1016/j.rssm.2026.101185) in *Research in Social Stratification and Mobility* 2 August 2026. 
 * PUB: ["Artificial intelligence and unconditional love: the rise of generative AI as an alternative form of mental health support."](https://doi.org/10.1007/s44382-026-00036-1) in *Commun. Change* 2, 14 (2026).
