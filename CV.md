@@ -81,6 +81,7 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ### In Print (First or solo author)
 
+* Mark J. Hill. "Concepts at Work: Testing Rival Conceptions of Liberty in Large Language Models" in *Proceedings of the First Workshop on Pluralistic Value Alignment of LLMs* (2026). URL: [https://aclanthology.org/2026.plurvallm-1.6/](https://aclanthology.org/2026.plurvallm-1.6/).
 * Mark J. Hill, Vince Miller, and Tiago Moreira. "Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities" in *Anthology of Computers and the Humanities* (2026). DOI: [https://doi.org/10.1016/j.rssm.2026.101185](https://doi.org/10.1016/j.rssm.2026.101185) 
 * Mark J. Hill, Ayse Bulus, and Paul Spence. "Catalogues as Data: Interpretable NLP Pipelines for Ottoman-Turkish Bibliographies" in *Proceedings of the 10th Joint SIGHUM Workshop on Computational Linguistics for Cultural Heritage, Social Sciences, Humanities and Literature 2026* (2026). DOI: [https://doi.org/10.18653/v1/2026.latechclfl-1.12](https://doi.org/10.18653/v1/2026.latechclfl-1.12)
 * Mark J. Hill. "Catching Stray Balls: Football, fandom, and the impact on digital discourse" in *Proceedings of the The 9th Workshop on Online Abuse and Harms (WOAH)* (2025). URL: [https://aclanthology.org/2025.woah-1.17/](https://aclanthology.org/2025.woah-1.17/).
