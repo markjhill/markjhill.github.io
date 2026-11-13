@@ -17,6 +17,7 @@ His research sits at the intersection of digital methodologies and traditional s
 
 ### 2026
 
+* ROUNDTABLE: "Caught in the Storm: How online mis/disinformation impacts London’s communities, and what to do about it" at Demos (London). November, 2026.
 * PUB: ["Concepts at Work: Testing Rival Conceptions of Liberty in Large Language Models"](https://aclanthology.org/2026.plurvallm-1.6/).
 * KEYNOTE: "Familiar Texts, Unfamiliar Contexts: Canonicity and context in computational cultural analysis" at [The Models of Canonicity](https://mecano-dn.eu/) (Helsinki). 30 Oct 2026.
 * PUB: ["Discursive Signatures: A Computational Method for Mapping How Meaning Varies Across Communities"](https://doi.org/10.1016/j.rssm.2026.101185) in *Anthology of Computers and the Humanities* Volume 6, 2026. 
