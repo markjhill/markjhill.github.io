@@ -108,6 +108,8 @@ Digital humanities; history; computational social science; interdisciplinary res
 
 ## Keynotes, Invited Talks, Seminars, and Workshops
 
+* **Caught in the Storm: How online mis/disinformation impacts London’s communities, and what to do about it**, London, 2026
+  * Invited to participate in roundtable organised by Demos on their research into online misinformation.
 * **Familiar Texts, Unfamiliar Contexts: Canonicity and context in computational cultural analysis**, Helsinki, 2026
   * Keynote at The Models of Canonicity, part of MECANO (The Mechanics of Canon Formation and the Transmission of Knowledge)
 * **Critical Approaches to Text-Based Digital and Computational Humanities**, London, 2026
